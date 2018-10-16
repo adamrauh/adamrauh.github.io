@@ -2,5 +2,4 @@
 layout: page
 title: CV/Resume
 ---
-
-[Here](https://github.com/adamrauh/adamrauh.github.io/blob/master/resume_cvish.pdf) is a link to my CV/Resume. 
+[Here]({{ site.url }}/assets/resume_cvish.pdf) is a link to my working resume/CV.
