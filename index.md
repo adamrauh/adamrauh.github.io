@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hello
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Adam Rauh. I am currently working in the [Political Methodology Lab](http://pmlab.mit.edu/) at MIT as a statistical research and computational specialist. Broadly speaking, I am interested in applications of statistics and machine learning in the social sciences and American politics and developing useful statistical software. I also enjoy topics in sports analytics. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Aside from this, I enjoy discussing, collecting, and using analog tools and writing instruments. I am also a diner and breakfast food enthusiast.
